@@ -1,0 +1,36 @@
+
+body{
+    background-color: rebeccapurple;
+}
+#d1{
+
+    background: blue;
+    
+
+}
+#d2{
+    background-color: bisque;
+}
+#d3{
+    background-color: white;
+    border: 1px solid black;
+    
+}
+#a1{
+    border: 5px double black;
+    width:auto;        
+}
+#a2{
+    width: 20%;
+}
+#a3{
+  width: 20%;   
+}
+#a4{
+  width: 19%;   
+}
+#d10{
+    background: blue
+
+}
+
